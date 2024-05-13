@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TentaciousX
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently a high school junior
-- 📫 How to reach me : Discord - тєитα¢ισυѕ#2366
+- 🌱 I’m currently pursuing btech from IIT Delhi 
+- 📫 How to reach me : Discord - tentaciousxoxo
 - ¶¶ I aspire to make a globally known and used operating system 
 
 <!---
